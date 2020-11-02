@@ -60,3 +60,5 @@ service :
 - [qrcode](https://github.com/soldair/node-qrcode)
 - [Bootstrap](https://getbootstrap.com/)
 - [Font Awesome](https://fontawesome.com/license)
+
+Merci à [jeremyzaire](https://github.com/jeremyzaire/) pour son énorme aide.
