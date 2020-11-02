@@ -61,4 +61,4 @@ service :
 - [Bootstrap](https://getbootstrap.com/)
 - [Font Awesome](https://fontawesome.com/license)
 
-Merci à [jeremyzaire](https://github.com/jeremyzaire/) pour son énorme aide.
+Merci à [@jeremyzaire](https://github.com/jeremyzaire/) pour son énorme aide.
